@@ -1,0 +1,10 @@
+{
+    "autoload": {
+      "psr-4": {
+        "": "src"
+      }
+    },
+    "require": {
+        "google/protobuf": "^3.10"
+    }
+}
